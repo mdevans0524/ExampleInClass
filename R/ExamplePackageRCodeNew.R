@@ -54,3 +54,5 @@ logtransformed<-function(NumericVector=NULL){
 
 # Adding a comment
 # Adding another comment just for fun
+
+#Making another comment
