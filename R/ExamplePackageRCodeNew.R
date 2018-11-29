@@ -52,4 +52,5 @@ logtransformed<-function(NumericVector=NULL){
   return(output)
 }
 
-
+# Adding a comment
+# Adding another comment just for fun
